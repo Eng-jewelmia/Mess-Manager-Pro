@@ -1,4 +1,4 @@
-import React, { forwardRef } from 'react';
+import { forwardRef } from 'react';
 import { CalculatedMember, CalculationResult, FixedCosts } from '../types';
 import { PLACEHOLDER_AVATAR } from '../constants';
 
